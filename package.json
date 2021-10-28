@@ -1,0 +1,25 @@
+{
+  "name": "restaurant_webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkim805/restaurant_webpage.git"
+  },
+  "author": "Ryan Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkim805/restaurant_webpage/issues"
+  },
+  "homepage": "https://github.com/rkim805/restaurant_webpage#readme",
+  "devDependencies": {
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
